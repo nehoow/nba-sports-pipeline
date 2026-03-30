@@ -1,0 +1,12 @@
+# Data Files
+*.csv
+*.db
+*.txt
+
+# Python Junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code Settings
+.vscode/   
