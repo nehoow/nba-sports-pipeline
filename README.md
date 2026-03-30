@@ -32,4 +32,4 @@ Itcollects, cleans,  analyzes and stores NBA player statistics using Python.
 ## Key findings
 - Top scorer across all seasons
 - Most well-rounded player
-- Dataset covers _ seasons and _ unique players
+- Dataset covers 27 seasons and 2551 unique players
